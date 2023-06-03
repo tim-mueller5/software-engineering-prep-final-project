@@ -20,3 +20,7 @@ section#leftSide, section#rightSide {
   width: 20%;
   background: white;
 }
+
+div#blackOutGame {
+  background: black;
+}
