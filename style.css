@@ -2,6 +2,21 @@ body {
     background: lightblue;
 }
 
-* {
+h1 {
   text-align: center;
+}
+
+section {
+  float: left;
+  padding: 1%;
+  text-align: center;
+}
+
+section#center {
+  width: 54%;
+}
+
+section#leftSide, section#rightSide {
+  width: 20%;
+  background: white;
 }
